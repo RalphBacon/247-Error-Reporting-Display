@@ -3,7 +3,7 @@
 
 ![Thumbnail Small](https://user-images.githubusercontent.com/20911308/184887223-8c8795c6-dbdf-415c-bd95-bd3dbe4c331b.png)  
 
-[![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/184890742-6d550514-33f2-442d-b13e-7705d7256abe.png "PCB Way - One Stop Prototyping Shop")](https://pcbway.com/)  
+[![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/185056321-747476a7-988f-4c4a-a4f1-47d245b277e2.jpg "PCB Way - One Stop Prototyping Shop")](https://pcbway.com/)  
 
 ### You've built a project. It's working. Hurrah. Now it's suddenly stopped working. What has gone wrong?  
 
