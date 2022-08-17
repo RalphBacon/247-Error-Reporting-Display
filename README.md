@@ -2,6 +2,7 @@
 ### How do we know what's gone wrong with a project?
 
 ![Thumbnail Small](https://user-images.githubusercontent.com/20911308/184887223-8c8795c6-dbdf-415c-bd95-bd3dbe4c331b.png)  
+#### See YouTube Video #245 https://youtu.be/2AkUf6Fj_MQ
 
 [![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/185056321-747476a7-988f-4c4a-a4f1-47d245b277e2.jpg "PCB Way - One Stop Prototyping Shop")](https://pcbway.com/)  
 
