@@ -1,4 +1,4 @@
-# #245 Error Reporting & Display
+# #247 Error Reporting & Display
 ### How do we know what's gone wrong with a project?
 
 ![Thumbnail Small](https://user-images.githubusercontent.com/20911308/184887223-8c8795c6-dbdf-415c-bd95-bd3dbe4c331b.png)  
